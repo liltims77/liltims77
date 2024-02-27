@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @liltims77
-- 👀 I’m interested in working remotely
-- 🌱 I’m currently a data engineer/analyst ...
-- 💞️ I’m looking to collaborate on any new tech dev
-- 📫 How to reach me liltims77@gmail.com
+🚀 Passionate Data Engineer & Scientist |  with AI & ML 🏥
 
-<!---
-liltims77/liltims77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Solving complex problems with determination & innovation 💡
+
+👨‍💻 Experienced in architecting robust data pipelines & developing predictive models 🛠️
+
+📊 Leveraging AI & ML to unlock insights from healthcare data for better patient outcomes 🧠
+
+💻 Empowering digital health initiatives with seamless integration & cutting-edge solutions 🌐
+
+🔒 Ensuring data privacy & regulatory compliance while maximizing data utility 🛡️
+
+📈 Committed to advancing the intersection of technology & healthcare for a healthier future 🌟
+
+🔒 Ensuring data privacy, regulatory compliance & blockchain security for trustworthy systems 🛡️
